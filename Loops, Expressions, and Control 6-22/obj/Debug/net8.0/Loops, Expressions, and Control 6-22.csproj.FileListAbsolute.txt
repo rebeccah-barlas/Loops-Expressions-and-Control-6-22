@@ -1,0 +1,14 @@
+C:\Users\barla\source\repos\Loops, Expressions, and Control 6-22\Loops, Expressions, and Control 6-22\bin\Debug\net8.0\Loops, Expressions, and Control 6-22.exe
+C:\Users\barla\source\repos\Loops, Expressions, and Control 6-22\Loops, Expressions, and Control 6-22\bin\Debug\net8.0\Loops, Expressions, and Control 6-22.deps.json
+C:\Users\barla\source\repos\Loops, Expressions, and Control 6-22\Loops, Expressions, and Control 6-22\bin\Debug\net8.0\Loops, Expressions, and Control 6-22.runtimeconfig.json
+C:\Users\barla\source\repos\Loops, Expressions, and Control 6-22\Loops, Expressions, and Control 6-22\bin\Debug\net8.0\Loops, Expressions, and Control 6-22.dll
+C:\Users\barla\source\repos\Loops, Expressions, and Control 6-22\Loops, Expressions, and Control 6-22\bin\Debug\net8.0\Loops, Expressions, and Control 6-22.pdb
+C:\Users\barla\source\repos\Loops, Expressions, and Control 6-22\Loops, Expressions, and Control 6-22\obj\Debug\net8.0\Loops, Expressions, and Control 6-22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barla\source\repos\Loops, Expressions, and Control 6-22\Loops, Expressions, and Control 6-22\obj\Debug\net8.0\Loops, Expressions, and Control 6-22.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\Loops, Expressions, and Control 6-22\Loops, Expressions, and Control 6-22\obj\Debug\net8.0\Loops, Expressions, and Control 6-22.AssemblyInfo.cs
+C:\Users\barla\source\repos\Loops, Expressions, and Control 6-22\Loops, Expressions, and Control 6-22\obj\Debug\net8.0\Loops, Expressions, and Control 6-22.csproj.CoreCompileInputs.cache
+C:\Users\barla\source\repos\Loops, Expressions, and Control 6-22\Loops, Expressions, and Control 6-22\obj\Debug\net8.0\Loops, Expressions, and Control 6-22.dll
+C:\Users\barla\source\repos\Loops, Expressions, and Control 6-22\Loops, Expressions, and Control 6-22\obj\Debug\net8.0\refint\Loops, Expressions, and Control 6-22.dll
+C:\Users\barla\source\repos\Loops, Expressions, and Control 6-22\Loops, Expressions, and Control 6-22\obj\Debug\net8.0\Loops, Expressions, and Control 6-22.pdb
+C:\Users\barla\source\repos\Loops, Expressions, and Control 6-22\Loops, Expressions, and Control 6-22\obj\Debug\net8.0\Loops, Expressions, and Control 6-22.genruntimeconfig.cache
+C:\Users\barla\source\repos\Loops, Expressions, and Control 6-22\Loops, Expressions, and Control 6-22\obj\Debug\net8.0\ref\Loops, Expressions, and Control 6-22.dll
